@@ -27,7 +27,7 @@ open the files in Visual Studio Code.
 ## Recognize Basic HTML Document Structure
 
 Let's start by adding the bare essentials of an HTML document to the provided
-`index.html` file:
+`index.html` file:index.html
 
 - A `DOCTYPE` tag, which looks like this: `<!DOCTYPE html>`
 - Opening and closing `html` tags
